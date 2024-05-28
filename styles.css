@@ -5,7 +5,7 @@
 
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url('https://www.freepik.com/premium-ai-image/sustainability-it-green-it-computing-concept-carbon-free_169758670.htm#fromView=search&page=1&position=22&uuid=c15d55d1-bdb6-4893-be01-26b6dc50a9c1');
+    background-image: url('https://www.freepik.com/premium-ai-image/sustainability-it-green-it-computing-concept-carbon-free_169758670.htm#fromView=search&page=1&position=22&uuid=c15d55d1-bdb6-4893-be01-26b6dc50a9c1');
     background-position: center;
     background-size: cover;
     height: 100vh;
